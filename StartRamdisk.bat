@@ -1,0 +1,1 @@
+imdisk -a -s 1300M -m E: -p "fs:ntfs /q /y"
